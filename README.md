@@ -16,15 +16,15 @@ Este é um sistema simples desenvolvido em Python com interface gráfica (Tkinte
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/riosgabriel95/Cadastro-Python.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd Cadastro-Python
    ```
 3. Execute o arquivo principal:
    ```bash
-   python main.py
+   python cadastro.py
    ```
 
 ## Uso
